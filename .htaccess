@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+
+	RewriteEngine On
+
+	RewriteRule ^action/([^/]*)/([^/]*)$ action.php?operator=$1&type=$2 [L]
+	RewriteRule ^action/([^/]*)/([^/]*)/([^/]*)$ action.php?operator=$1&type=$2&id=$3 [L]
+
+</IfModule>

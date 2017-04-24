@@ -1,0 +1,46 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+}
+.btn-space {
+    margin-left: 5px;
+}
+th {
+    text-align: center;
+}
+.table {
+    margin-bottom: 0;
+}
+.showing {
+    margin-top: 10px;
+}
+button, a {
+	transition: none !important;
+}
+.alert-link {
+	font-weight: 600;
+}
+.article-form-content {
+	min-height: 200px;
+	max-height: 600px;
+}
+pre {
+    background: #f7f7f7;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    display: block;
+    overflow: auto;
+    padding: 20px;
+    width: 100%;
+    color: #444;
+}
+@media(min-width: 768px) {
+	.field-label-responsive {
+		padding-top: .5rem;
+		text-align: right;
+	}
+}
