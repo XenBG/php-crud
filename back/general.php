@@ -4,7 +4,7 @@
  *
  */
 
-$SITE_URL = "http://77.76.191.33/crud/";
+$SITE_URL = "http://localhost/crud/";
 $PROJECT_NAME = "PHP CRUD Project";
 $CURRENT_YEAR = date("Y", time());
 
