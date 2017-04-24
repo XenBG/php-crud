@@ -1,2 +1,2 @@
 # php-crud
-Easy PHP CRUD demonstrational script.
+Easy PHP CRUD demonstration script.
