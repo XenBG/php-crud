@@ -1,7 +1,7 @@
                 </div>
                 <hr>
                 <footer class="footer">
-                    <p>&copy; <?php echo $CURRENT_YEAR.' - PHP OOP CRUD demonstrational script made by <strong>Tom Atanasov</strong>.'; ?></p>
+                    <p>&copy; <?php echo $CURRENT_YEAR.' - PHP CRUD demonstration script made by <strong>Tom Atanasov</strong>.'; ?></p>
                 </footer>
             </div>
 
